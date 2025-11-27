@@ -1,7 +1,7 @@
 import telebot
 from google import generativeai as genai
 #tanzim API
-TELEGRAM_TOKEN="8453278691:AAF9So3a3rgognO5HSggbl_XPdr-4SaW9I4"
+TELEGRAM_TOKEN="8453278691:AAG8is_UVKdr-ZABWjo4mQIR5YbmVMINuUY"
 #tanzim gemini
 GEMINI_API_KEY="AIzaSyBtQdu_LTMSuqoemAHRi9ELgcDfOlq3f8g"
 
