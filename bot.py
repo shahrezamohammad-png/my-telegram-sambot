@@ -1,7 +1,7 @@
 import telebot
 from google import generativeai as genai
 #tanzim API
-TELEGRAM_TOKEN="8453278691:AAF9So3a3rgogn05HSggbl_XPdr-4SaW9I4"
+TELEGRAM_TOKEN="8453278691:AAF9So3a3rgognO5HSggbl_XPdr-4SaW9I4"
 #tanzim gemini
 GEMINI_API_KEY="AIzaSyBtQdu_LTMSuqoemAHRi9ELgcDfOlq3f8g"
 
@@ -30,4 +30,5 @@ def send_gemini_response(message):
 
 # اجرای ربات
 print("ربات در حال اجراست...")
+
 bot.polling()
